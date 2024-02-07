@@ -1,6 +1,6 @@
 
 # NN Optimization with Apache-TVM
-![NN Optimization]("Assets/LP_Pipeline.jpg")
+![NN Optimization](https://github.com/neelgandhi108/NN-Optimization-with-Apache-TVM-and-TLCPack/blob/main/Assets/LP_Pipeline.jpg)
 
 ## Setup
 
@@ -10,7 +10,7 @@ For manual installation, refer to the [source installation guide](https://tvm.ap
 
 ## TVM Summary
 
-![TVM Architecture]("Assets\TVMStack.jpg")
+![TVM Architecture](https://github.com/neelgandhi108/NN-Optimization-with-Apache-TVM-and-TLCPack/blob/main/Assets/TVMStack.png)
 
 Each stage in a TVM workflow corresponds to a specific class.
 
@@ -40,6 +40,6 @@ Results from tuning are stored in the _logs_ folder. The script _LP_autoTVM.py_ 
 
 Benchmark results for various models, both pre- and post-optimization, are tabulated below. Notably, the keras models initially run slower on TVM but achieve superior optimization results, whereas the .onnx models consistently exhibit lower variance in execution times, both pre- and post-optimization. Further experimentation with different models might elucidate these trends
 
-![Results1]("Assets\TVM1.jpg")
-![Results2]("Assets\TVM2.jpg")
-![Results3]("Assets\TVM3.jpg")
+![Results1](https://github.com/neelgandhi108/NN-Optimization-with-Apache-TVM-and-TLCPack/blob/main/Assets/TVM1.png)
+![Results2](https://github.com/neelgandhi108/NN-Optimization-with-Apache-TVM-and-TLCPack/blob/main/Assets/TVM2.png)
+![Results3](https://github.com/neelgandhi108/NN-Optimization-with-Apache-TVM-and-TLCPack/blob/main/Assets/TVM3.png)
