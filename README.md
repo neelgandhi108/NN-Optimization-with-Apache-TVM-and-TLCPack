@@ -1,6 +1,6 @@
 
 # NN Optimization with Apache-TVM
-![NN Optimization]("Assets\LP_Pipeline.jpg")
+![NN Optimization]("Assets/LP_Pipeline.jpg")
 
 ## Setup
 
